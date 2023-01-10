@@ -38,7 +38,35 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LineComparisonComputation">
+    <configuration name="LineComparisonComputation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineComparisonComputation" />
+      <module name="Line_Comparison_Computation_All_Cases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineComparisonComputation (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineComparisonComputation" />
+      <module name="Line_Comparison_Computation_All_Cases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineComparisonComputation (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineComparisonComputation" />
+      <module name="Line_Comparison_Computation_All_Cases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineComparisonComputation (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineComparisonComputation" />
+      <module name="Line_Comparison_Computation_All_Cases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LineComparisonComputation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LineComparisonComputation" />
       <module name="Line_Comparison_Computation_All_Cases" />
@@ -49,6 +77,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.LineComparisonComputation" />
+        <item itemvalue="Application.LineComparisonComputation (4)" />
+        <item itemvalue="Application.LineComparisonComputation (3)" />
+        <item itemvalue="Application.LineComparisonComputation (2)" />
+        <item itemvalue="Application.LineComparisonComputation (1)" />
       </list>
     </recent_temporary>
   </component>
