@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
+import java.lang.Double;
 public class LineComparisonComputation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -28,13 +29,21 @@ public class LineComparisonComputation {
         System.out.println("The length of line XY is: " + lengthOfLine1);
         System.out.println("The length of line PQ is: " + lengthOfLine2);
 
-        if( lengthOfLine1 == lengthOfLine2 )
+       if( lengthOfLine1 == lengthOfLine2 )
         {
             System.out.println("Therefore the length of the two lines are equal");
         }
-        else {
-            System.out.println("Therefore the length of the two lines are not equal");
+       else if ( lengthOfLine1 > lengthOfLine2) {
+           System.out.println("The length of line XY  is greater then line PQ");
+
+
+       } else  {
+            System.out.println("The length of line PQ is  greater then line XY");
         }
+
+
+
+       // System.out.println(Double.compare(lengthOfLine1 , lengthOfLine2));
 
     }
 }
